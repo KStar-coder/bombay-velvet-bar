@@ -83,7 +83,7 @@ const Hero = () => {
 
                         <div className='view-cocktails'>
                             <p className='subtitle'>
-                                Every cocktail in our meny is a blend of fresh ingredients and premium spirits, crafted to perfection by our expert mixologists. Explore our menu and discover your new favorite cocktail today!
+                                Every cocktail in our menu is a blend of fresh ingredients and premium spirits, crafted to perfection by our expert mixologists. Explore our menu and discover your new favorite cocktail today!
                             </p>
                             <a href="#cocktails">View Cocktails</a>
 
