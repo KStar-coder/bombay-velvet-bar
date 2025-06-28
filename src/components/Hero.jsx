@@ -54,8 +54,8 @@ const Hero = () => {
                 trigger: 'video',
                 start: startValue,
                 end: endValue,
-                scrub: true,
-                pin: true,
+                scrub: true, // Smooth scrubbing
+                pin: true, // Pin the video during the scroll
             }
         })
 
