@@ -22,7 +22,7 @@ const Menu = () => {
         const parallaxTimeLine = gsap.timeline({
             scrollTrigger: {
                 trigger: '#menu',
-                start: 'top 10%',
+                start: 'top 20%',
                 end: 'bottom 80%',
                 scrub: true
             }
@@ -33,7 +33,6 @@ const Menu = () => {
                 y: -200,
             })
             .to('#m-right-leaf', {
-                x: -100,
                 y: 200,
             })
 
